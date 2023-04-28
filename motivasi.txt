@@ -1,0 +1,2 @@
+nama: melinda fitriani
+motivasi: uprage sklill untuk automated testing api maupun ui
